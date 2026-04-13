@@ -9,5 +9,5 @@ Ph.D. candidate @ Southeast University, majoring in **Computer Architecture Secu
 
 #### Skills
 - **HDL**: Verilog / SystemVerilog / Chisel
-- **Architecture**: RISC-V, GPU (NVIDIA), AMBA/AXI
+- **Architecture**: RISC-V, GPU (NVIDIA)
 - **Languages**: C/C++, Python, Scala
